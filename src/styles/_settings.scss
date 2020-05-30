@@ -54,11 +54,11 @@ a:visited {
 
  }
 }
-.homeContent, .knowledgesContent, .portfolioContent, 
+.homeContent, .knowledgesContent, .portfolioContent,
 .contactContent {
     margin-left: .4rem;
 
     @media screen and (max-width: 850px) {
         margin-left: 0 !important;
     }
-} 
+}

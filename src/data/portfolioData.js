@@ -10,12 +10,12 @@ export const portfolioData = [
   },
   {
     id: 2,
-    name: 'lorem.fr',
-    languages: ['javascript','react'],
+    name: 'Esport project TeamEvo',
+    languages: ['javascript','react','css'],
     languagesIcons: ['fab fa-js','fab fa-react'],
-    source: 'http://www.github.com',
+    source: 'https://gitlab.com/Hamzanayyer/teamevo-project-react.git',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project2.JPG'
+    picture: './media/esportEvo.png'
   },
   {
     id: 3,
@@ -37,20 +37,20 @@ export const portfolioData = [
   },
   {
     id: 5,
-    name: 'repudiante.com',
+    name: 'location-car.fr',
     languages: ['javascript','css'],
     languagesIcons: ['fab fa-js', 'fab fa-css3-alt'],
-    source: 'http://www.github.com',
+    source: 'https://location-car-prject.web.app',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project5.JPG'
+    picture: './media/siteCarpng.png'
   },
   {
     id: 6,
-    name: 'test.io',
+    name: 'CV Project',
     languages: ['javascript','react', 'css'],
     languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
     source: 'http://www.github.com',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project6.JPG'
+    picture: './media/cvPicture.png'
   },
 ]
