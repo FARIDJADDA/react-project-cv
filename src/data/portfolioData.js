@@ -37,7 +37,7 @@ export const portfolioData = [
     picture: "./media/marvel.png",
   },
   {
-    id: 4,
+    id: 5,
     name: "Pokemon",
     languages: ["javascript", "react", "css"],
     languagesIcons: ["fab fa-js", "fab fa-react", "fab fa-css3-alt"],
